@@ -1,0 +1,2 @@
+(this["webpackJsonptodo-gethired"]=this["webpackJsonptodo-gethired"]||[]).push([[1],{239:function(e,t,a){"use strict";a.r(t);a(1);var c=a(10);t.default=function(){return Object(c.jsx)("div",{className:"header",children:Object(c.jsx)("div",{"data-cy":"header-background",className:"container",children:Object(c.jsx)("h2",{"data-cy":"header-title",children:"TO DO LIST APP"})})})}}}]);
+//# sourceMappingURL=1.214793e6.chunk.js.map
